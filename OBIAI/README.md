@@ -1,12 +1,108 @@
 # OBIAI (Ontological Bayesian Intelligence Architecture)
+# Living Document – OBIAI, Version 3.2 – Current in Development
+
+## OBIAI: Ontological Bayesian Intelligence Architecture
+
+### Overview
+
+OBIAI is the epistemically validated cognitive core of the OBINexus stack. Inspired by the Igbo concept of "Obi" (the heart), it defines a symbolic, topological, bias-mitigated AI framework capable of real-world deployment across modular robotic, agent, and symbolic systems. It integrates polyglot runtime orchestration, formal bias correction, and zero-overhead computation through obicall and obimarshal, alongside the emerging obiwasm subsystem.
+
+### Core System Modules
+
+#### 1. Heart AI (OBIAI Core)
+
+* **Epistemic Confidence**: Maintains >= 95.4% threshold
+* **Bidirectional Reasoning**: Inductive/deductive symbolic logic engine
+* **Capsule Cognition**: Verb-noun DAG capsules, topological alignment
+
+#### 2. obicall (Polyglot Runtime)
+
+* Unified runtime across Python, Rust, Go, Node.js, and C
+* Dynamically dispatches agents, robotic interfaces, and symbolic engines via `-lobicall.a.so`
+* Enforces symbolic safety via cross-language memory and function tracing
+
+#### 3. obimarshal (Shared Utilities and Marshalling)
+
+* Universal marshalling format akin to Python pickle
+* Supports browser, robot, and embedded systems for AI model/data syncing
+* Enables AI hot-swapping in browser via OBI pickle
+
+#### 4. obiwasm (WASM Runtime Bridge)
+
+* Enables WASM-compatible deployments of OBI agents and symbolic cores
+* Shares topology with obimarshal and integrates into web+Android stacks
+
+### Topological Component Model
+
+* **Position-Based Identity**: Not versioned, but logically placed in AI cognitive graph
+* **Ship-of-Theseus Compliance**: Components can be updated, replaced, or re-bound while maintaining symbolic coherence if behavior is stable
+* **Binding/Driver Decoupling**: Ensures symbolic binding integrity even as drivers change (e.g., hardware upgrades)
+
+### Theoretical Integration
+
+#### A. Dimensional Game Theory (Okpala, 2025)
+
+* Scalar-to-vector transitions in variadic action spaces
+* Core to inductive action planning in high-dimensional cognition
+
+#### B. Bayesian Bias Mitigation (Okpala, 2024)
+
+* DAG-based confounder detection
+* Real-time causal inference using Pearl's do-calculus
+
+#### C. Mathematical Reasoning Systems (OBINexus)
+
+* Zero-overhead validation using deterministic constraint hashing
+* Static to dynamic function translation with compile-time safety
+
+#### D. Secure Thread-Safe Runtime (Gosilang, 2024)
+
+* All multithreaded runtime bindings validated against formal thread safety profiles
+* Cross-context validation and lock-free consensus for agent dispatch
+
+#### E. Cryptographic Safety Constraints (OBINexus, 2024)
+
+* SHA256-based memory receipts
+* Constraints on heap mutation (epsilon(x) <= 0.6)
+
+### Interfaces
+
+* **OBIVOIP**: Voice interface layer for robotic and software agents
+* **OBIROBOT**: Real-time robotic stack with sensory integration and safe actuation
+* **OBIAGENT**: Polyglot orchestrator across all supported languages
+* **OBIAI Symbolic Core**: Ground truth module for LLM, symbolic cognition, and decision logic
+
+### Patent Clauses (Condensed)
+
+* Cognitive AI with 95.4% validated epistemic threshold
+* Real-time symbolic bias correction via DAG+do-calculus
+* Zero-overhead marshalling for symbolic AI deployment
+* Polyglot runtime (obicall) across 5 languages with symbolic integrity
+* Modular topological logic for AI components
+
+### Status
+
+**Document Version**: 3.2  
+**Status**: Living Document – Actively Developed  
+**Maintainer**: Nnamdi Michael Okpala (OBINexus)  
+**Repository**: [github.com/obinexus/obiai](https://github.com/obinexus/obiai)
+
+---
+
+This document shall remain in continuous evolution as theoretical integrations are validated, and deployment environments are expanded (e.g., mobile agents, embodied WASM interfaces, and symbolic serverless cognition).
+
 ## The Heart AI - Technical Specification for Patent Filing
 
 **Project Repository**: [https://github.com/obinexus/obiai](https://github.com/obinexus/obiai)  
 **OBINexus Computing Platform**: computing.obinexus.org/obiai  
-**Document Version**: 3.0  
+**Document Version**: 3.2  
 **Classification**: Patent Technical Specification - Living Document  
 **Primary Inventor**: Nnamdi Okpala  
 **Status**: Under Active Development  
+
+# Living Document – OBIAI, Version 3.2 – Current in Development
+
+## OBIAI: Ontological Bayesian Intelligence Architecture
 
 > **Development Notice**: OBIAI is under active development. This living technical specification guides engineering implementation and legal protections during system evolution. Architecture and specifications are subject to refinement based on ongoing research and testing.
 
@@ -1279,5 +1375,6 @@ For full technical details, see the [DIRAM repository](https://github.com/obinex
 ---
 
 ---
+
 
 **END OF DOCUMENT**
